@@ -29,17 +29,17 @@ In this project I have used RStudio to show the statistical technical analysis f
     ![](#)
 
 ## T-Test on Suspension Coils
-    - Welch Two Sample t-test was performed on two sample table against PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.The t = 0.989, df = 16.577, p-value = 0.3369
+Welch Two Sample t-test was performed on two sample table against PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.The t = 0.989, df = 16.577, p-value = 0.3369
 The alternative hypothesis: true difference in means is not equal to 0. 
 95 percent confidence interval: -0.0005945674 for Sample 1 and  0.0016400259 for sample 2
 sample estimates: mean of x is 3.175743 and the mean of y 3.175220 
 See File [MechaCarChallenge.R]() Line 39 - 44. See images below of the Rstudio Environment output
 
-    ![Sample 1](#)
+![Sample 1](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Sample-table.png)
 
-    ![Sample 2](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Sampleaa-table2.png)
+![Sample 2](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Sampleaa-table2.png)
 
-    ![T-Test Output](#)
+![T-Test Output](#)
 
 ## Study Design: MechaCar vs Competition.
 This statistical study compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, in findings, I found that Manufacturer of Lot 3 were poorly designed with a suspension coil variance greater than 100. Suspension coils that is greater than 100 can have an advert refect on the vehicles fuel efficiency and horse power which can result in higher maintenance cost, or safety rating.
