@@ -23,7 +23,7 @@ The design specifications for the MechaCar suspension coils  dictate that the va
 
 ![](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Part2.png)
 
-![](#)
+![](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Part2-2.png)
 
 ## T-Test on Suspension Coils
 Welch Two Sample t-test was performed on two sample table against PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.The t = 0.989, df = 16.577, p-value = 0.3369
