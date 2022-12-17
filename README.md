@@ -39,7 +39,7 @@ See File [MechaCarChallenge.R]() Line 39 - 44. See images below of the Rstudio E
 
 ![Sample 2](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Sampleaa-table2.png)
 
-![T-Test Output](#)
+![T-Test Output](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Part3.png)
 
 ## Study Design: MechaCar vs Competition.
 This statistical study compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, in findings, I found that Manufacturer of Lot 3 were poorly designed with a suspension coil variance greater than 100. Suspension coils that is greater than 100 can have an advert refect on the vehicles fuel efficiency and horse power which can result in higher maintenance cost, or safety rating.
