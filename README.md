@@ -2,7 +2,7 @@
 ## Overview 
 In this project I have used RStudio to show the statistical technical analysis for the following:
 - Linear Regression to Predict MPG:
- - I have used the csv file [MecheCar_mgp.csv](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv) to create the data frame MecheCar_dataframe. I then create the coefficients values by using the 1m function to hold the residuals and coefficients values. 
+    - I have used the csv file [MecheCar_mgp.csv](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv) to create the data frame MecheCar_dataframe. I then create the coefficients values by using the 1m function to hold the residuals and coefficients values. 
 - Summary Statistics on Suspension Coil
     - I have used the csv file [Suspension_Coil.csv](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv) to create the dataframe coilsTotal_summary which was then inturn used to create the mean, median, variance and standard deivation.
 - T-Test on Suspension Coils
@@ -19,7 +19,7 @@ The linear model predict mpg of MechaCar prototypes was very effective, because 
 ![](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Part1.png)
 
 ## Summary Statistics on Suspension
-The design specifications for the MechaCar suspension coils  dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Lot 3 variance was almost double the design specifications for the suspension coils (170 plus)  which cause the Standard divaiation to be much high than  Lot 1 and Lot 2. Note that Lot 1 and Lot 2 has meant all design specifications. See File [MechaCarChallenge.R](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R) Line 12 - 37. See images below of the Rstudio Environment output
+The design specifications for the MechaCar suspension coils  dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Lot 3 variance was almost double the design specifications for the suspension coils (170 plus)  which cause the Standard divaiation to be much high than  Lot 1 and Lot 2. Note that Lot 1 and Lot 2 has meant all design specifications. See File [MechaCarChallenge.R](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R) Line 12 - 37. See images below of the Rstudio Environment output.
 
 ![](https://github.com/JaredTMurray/MechaCar_Statistical_Analysis/blob/main/Part2.png)
 
